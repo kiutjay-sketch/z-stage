@@ -7,10 +7,6 @@
     "start": "node server.mjs"
   },
   "dependencies": {
-    "ws": "^8.16.0",
-    "yjs": "^13.6.1",
-    "y-websocket": "^2.0.4",
-    "lib0": "^0.2.88",
-    "y-protocols": "^1.0.6"
+    "ws": "^8.16.0"
   }
 }
